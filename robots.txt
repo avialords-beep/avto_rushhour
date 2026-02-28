@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+Disallow: /*?*
+
+Host: avto_rushhour.vercel.app
+Sitemap: https://avto_rushhour.vercel.app/sitemap.xml
