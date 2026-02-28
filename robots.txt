@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
+
 Disallow: /_next/
 Disallow: /api/
-Disallow: /*?*
 
 Host: avtorushhour.vercel.app
 Sitemap: https://avtorushhour.vercel.app/sitemap.xml
