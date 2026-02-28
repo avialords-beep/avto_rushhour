@@ -4,5 +4,5 @@ Disallow: /_next/
 Disallow: /api/
 Disallow: /*?*
 
-Host: avto_rushhour.vercel.app
-Sitemap: https://avto_rushhour.vercel.app/sitemap.xml
+Host: avtorushhour.vercel.app
+Sitemap: https://avtorushhour.vercel.app/sitemap.xml
